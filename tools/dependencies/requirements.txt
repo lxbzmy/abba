@@ -1,4 +1,0 @@
-docopt
-gitpython
-pyyaml
-requests
